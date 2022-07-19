@@ -34,15 +34,15 @@ git pull 2>&1
 
 ## Brew Diagnotic
 echo "${yellow}==>${reset} Running Brew Diagnotic..."
-brew doctor --quiet 2>&1
-brew missing --quiet 2>&1
+brew doctor 2>&1
+brew missing 2>&1
 echo -e "${green}==>${reset} Brew Diagnotic Finished."
 
 ## Brew packages update and cleanup
 echo "${yellow}==>${reset} Running Updates..."
-brew update --quiet 2>&1
-brew outdated --quiet 2>&1
-brew upgrade --quiet 2>&1
+brew update 2>&1
+brew outdated 2>&1
+brew upgrade 2>&1
 brew cleanup -s 2>&1
 echo "${green}==>${reset} Finished Updates"
 

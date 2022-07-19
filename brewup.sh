@@ -8,7 +8,7 @@ fi
 
 ## Fix for brew doctor warnings if using pyenv
 if which pyenv >/dev/null 2>&1; then
-  brew='env PATH=${PATH//$(pyenv root)\/shims:/} brew'
+  brew='env PATH=${PATH//$(pyenv root)\/shims:/} brew --quiet'
 fi
 
 ## checks if mas, terminal-notifier are installed, if not will promt to install

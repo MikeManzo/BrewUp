@@ -8,7 +8,7 @@ fi
 
 ## Fix for brew doctor warnings if using pyenv
 if which pyenv >/dev/null 2>&1; then
-  brew='env PATH=${PATH//$(pyenv root)\/shims:/} brew --quiet'
+  brew='env PATH=${PATH//$(pyenv root)\/shims:/} brew'
 fi
 
 ## checks if mas, terminal-notifier are installed, if not will promt to install
@@ -40,7 +40,7 @@ echo -e "${green}==>${reset} Brew Diagnotic Finished."
 
 ## Brew packages update and cleanup
 echo "${yellow}==>${reset} Running Updates..."
-brew update 2>&1
+brew update --quiet 2>&1
 brew outdated 2>&1
 brew upgrade 2>&1
 brew cleanup -s 2>&1

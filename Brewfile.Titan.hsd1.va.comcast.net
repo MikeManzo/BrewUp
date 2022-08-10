@@ -18,4 +18,7 @@ cask "quicklookase"
 cask "suspicious-package"
 cask "visual-studio-code"
 cask "webpquicklook"
+mas "Affinity Photo", id: 824183456
+mas "Cardhop", id: 1290358394
 mas "Cascadea", id: 1432182561
+mas "Microsoft Remote Desktop", id: 1295203466

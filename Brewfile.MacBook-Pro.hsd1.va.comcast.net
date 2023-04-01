@@ -11,4 +11,6 @@ cask "microsoft-edge"
 cask "visual-studio-code"
 mas "Cascadea", id: 1432182561
 mas "Hush", id: 1544743900
+mas "Microsoft Bing for Safari", id: 1560727432
+mas "Playgrounds", id: 1496833156
 mas "Xcode", id: 497799835

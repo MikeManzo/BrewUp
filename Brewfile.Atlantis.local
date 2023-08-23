@@ -1,0 +1,17 @@
+tap "homebrew/bundle"
+brew "cocoapods"
+brew "coreutils"
+brew "mas"
+brew "python@3.9"
+brew "zsh"
+cask "iterm2"
+cask "microsoft-edge"
+cask "visual-studio-code"
+mas "Cascadea", id: 1432182561
+mas "Hush", id: 1544743900
+mas "Microsoft Bing for Safari", id: 1560727432
+mas "Playgrounds", id: 1496833156
+mas "Xcode", id: 497799835
+vscode "sswg.swift-lang"
+vscode "vadimcn.vscode-lldb"
+vscode "yzhang.markdown-all-in-one"

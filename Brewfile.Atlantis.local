@@ -4,5 +4,6 @@ brew "mas"
 brew "zsh"
 cask "iterm2"
 cask "monitorcontrol"
+cask "raycast"
 mas "Cascadea", id: 1432182561
 mas "Folders", id: 1593644229

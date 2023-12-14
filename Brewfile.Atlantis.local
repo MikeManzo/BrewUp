@@ -7,7 +7,6 @@ cask "monitorcontrol"
 cask "raycast"
 cask "visual-studio-code"
 mas "Cascadea", id: 1432182561
-mas "Folders", id: 1593644229
 vscode "bmewburn.vscode-intelephense-client"
 vscode "ms-python.python"
 vscode "ms-python.vscode-pylance"

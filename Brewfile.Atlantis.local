@@ -1,4 +1,6 @@
 tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
 brew "mas"
 brew "python@3.10"
 brew "python@3.11"

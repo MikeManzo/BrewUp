@@ -1,4 +1,5 @@
 tap "homebrew/bundle"
+brew "btop"
 brew "curl"
 brew "mas"
 brew "python@3.10"

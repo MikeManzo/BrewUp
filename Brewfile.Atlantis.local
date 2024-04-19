@@ -1,6 +1,7 @@
 tap "homebrew/bundle"
 brew "btop"
 brew "curl"
+brew "lsd"
 brew "mas"
 brew "python@3.10"
 brew "python@3.11"

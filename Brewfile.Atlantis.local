@@ -8,10 +8,12 @@ brew "python@3.11"
 brew "zsh"
 cask "iterm2"
 cask "visual-studio-code"
+mas "Discovery", id: 1381004916
 mas "PDFgear", id: 6469021132
 vscode "ms-python.debugpy"
 vscode "ms-python.python"
 vscode "ms-python.vscode-pylance"
+vscode "redhat.vscode-yaml"
 vscode "sswg.swift-lang"
 vscode "vadimcn.vscode-lldb"
 vscode "zainchen.json"

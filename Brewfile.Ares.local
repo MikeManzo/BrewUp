@@ -1,0 +1,6 @@
+tap "homebrew/bundle"
+brew "mas"
+brew "starship"
+brew "zsh"
+cask "visual-studio-code"
+cask "warp"

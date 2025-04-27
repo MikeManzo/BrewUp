@@ -2,10 +2,19 @@ tap "dracula/install"
 tap "homebrew/bundle"
 brew "mas"
 brew "starship"
+brew "wget"
 brew "zsh"
 cask "dracula-xcode"
 cask "font-fira-code"
 cask "visual-studio-code"
 cask "warp"
+mas "DevHub", id: 6476452351
+mas "Discovery", id: 1381004916
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
 vscode "google.geminicodeassist"
 vscode "googlecloudtools.cloudcode"
+vscode "karlito40.fix-irregular-whitespace"

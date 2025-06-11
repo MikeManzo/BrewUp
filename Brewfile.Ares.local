@@ -1,5 +1,4 @@
 tap "dracula/install"
-tap "homebrew/bundle"
 brew "mas"
 brew "starship"
 brew "wget"

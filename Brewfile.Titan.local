@@ -20,6 +20,7 @@ cask "quicklook-json"
 cask "quicklookase"
 cask "suspicious-package"
 cask "visual-studio-code"
+cask "warp"
 cask "webpquicklook"
 mas "Affinity Photo", id: 824183456
 mas "Cardhop", id: 1290358394

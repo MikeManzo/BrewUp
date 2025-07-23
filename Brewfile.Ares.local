@@ -12,6 +12,23 @@ mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Remote Desktop", id: 409907375
+vscode "bmewburn.vscode-intelephense-client"
+vscode "github.copilot"
+vscode "github.copilot-chat"
+vscode "github.vscode-github-actions"
 vscode "google.geminicodeassist"
 vscode "googlecloudtools.cloudcode"
 vscode "karlito40.fix-irregular-whitespace"
+vscode "llvm-vs-code-extensions.lldb-dap"
+vscode "ms-python.python"
+vscode "ms-python.vscode-pylance"
+vscode "ms-python.vscode-python-envs"
+vscode "ms-vscode.cmake-tools"
+vscode "ms-vscode.cpptools"
+vscode "ms-vscode.cpptools-extension-pack"
+vscode "ms-vscode.cpptools-themes"
+vscode "swiftlang.swift-vscode"
+vscode "twxs.cmake"
+vscode "vadimcn.vscode-lldb"
+vscode "yzhang.markdown-all-in-one"
+vscode "zencoderai.zencoder"

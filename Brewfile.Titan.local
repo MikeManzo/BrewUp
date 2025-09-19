@@ -17,7 +17,6 @@ cask "visual-studio-code"
 cask "warp"
 cask "webpquicklook"
 mas "Affinity Photo", id: 824183456
-mas "Cardhop", id: 1290358394
 mas "Remote Desktop", id: 409907375
 vscode "ms-python.debugpy"
 vscode "ms-python.python"

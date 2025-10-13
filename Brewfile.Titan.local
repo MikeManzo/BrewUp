@@ -18,6 +18,7 @@ cask "warp"
 cask "webpquicklook"
 mas "Affinity Photo", id: 824183456
 mas "Remote Desktop", id: 409907375
+mas "Windows App", id: 1295203466
 vscode "ms-python.debugpy"
 vscode "ms-python.python"
 vscode "ms-python.vscode-pylance"

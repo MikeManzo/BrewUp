@@ -1,8 +1,6 @@
 brew "cocoapods"
 brew "mas"
-brew "node@20"
 brew "nvm"
-brew "python@3.9"
 brew "zsh"
 brew "zsh-syntax-highlighting"
 cask "iterm2"

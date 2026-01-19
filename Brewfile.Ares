@@ -1,11 +1,8 @@
 tap "dracula/install"
 brew "mas"
-brew "starship"
 brew "tree"
 brew "wget"
 brew "zsh"
-cask "dracula/install/dracula-xcode"
-cask "font-fira-code"
 cask "visual-studio-code"
 cask "warp"
 mas "Developer", id: 640199958

@@ -1,4 +1,3 @@
-tap "dracula/install"
 brew "mas"
 brew "tree"
 brew "wget"

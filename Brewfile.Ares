@@ -4,6 +4,7 @@ brew "wget"
 brew "zsh"
 cask "visual-studio-code"
 cask "warp"
+mas "CivilizationVII", id: 6744373452
 mas "Developer", id: 640199958
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694

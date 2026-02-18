@@ -13,7 +13,6 @@ mas "Microsoft Word", id: 462054704
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Remote Desktop", id: 409907375
-mas "Windows App", id: 1295203466
 vscode "bmewburn.vscode-intelephense-client"
 vscode "github.copilot"
 vscode "github.copilot-chat"

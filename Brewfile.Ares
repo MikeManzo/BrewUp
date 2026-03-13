@@ -1,5 +1,6 @@
 brew "gh"
 brew "mas"
+brew "node"
 brew "tree"
 brew "wget"
 brew "zsh"

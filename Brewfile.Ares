@@ -17,7 +17,6 @@ mas "Pages", id: 409201541
 mas "Remote Desktop", id: 409907375
 mas "uBlock Origin Lite", id: 6745342698
 vscode "bmewburn.vscode-intelephense-client"
-vscode "github.copilot-chat"
 vscode "github.vscode-github-actions"
 vscode "karlito40.fix-irregular-whitespace"
 vscode "llvm-vs-code-extensions.lldb-dap"

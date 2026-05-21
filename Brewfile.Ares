@@ -6,7 +6,6 @@ brew "wget"
 brew "zsh"
 cask "visual-studio-code"
 cask "warp"
-mas "CivilizationVII", id: 6744373452
 mas "Developer", id: 640199958
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
@@ -27,3 +26,4 @@ vscode "swiftlang.swift-vscode"
 vscode "twxs.cmake"
 vscode "vadimcn.vscode-lldb"
 vscode "yzhang.markdown-all-in-one"
+npm "@anthropic-ai/claude-code"

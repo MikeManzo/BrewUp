@@ -1,17 +1,14 @@
-brew "ca-certificates"
-brew "openssl@3"
-brew "ruby"
-brew "cocoapods"
-brew "libyaml"
-brew "ncurses"
-brew "pcre"
-brew "zsh"
-brew "zsh-syntax-highlighting"
+brew "mas"
+cask "font-meslo-lg-nerd-font"
 cask "iterm2"
 cask "microsoft-edge"
 cask "stats"
 cask "visual-studio-code"
 cask "warp"
+mas "Affinity Photo", id: 824183456
+mas "LG Screen Manager", id: 1142051783
+mas "Remote Desktop", id: 409907375
+mas "Windows App", id: 1295203466
 vscode "llvm-vs-code-extensions.lldb-dap"
 vscode "ms-python.debugpy"
 vscode "ms-python.python"

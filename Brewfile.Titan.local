@@ -1,3 +1,4 @@
+brew "gh"
 brew "mas"
 cask "font-meslo-lg-nerd-font"
 cask "iterm2"

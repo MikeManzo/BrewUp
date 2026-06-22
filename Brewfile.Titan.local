@@ -1,10 +1,17 @@
+# GitHub command-line tool
 brew "gh"
+# Mac App Store command-line interface
 brew "mas"
 cask "font-meslo-lg-nerd-font"
+# Terminal emulator as alternative to Apple's Terminal app
 cask "iterm2"
+# Multi-platform web browser
 cask "microsoft-edge"
+# System monitor for the menu bar
 cask "stats"
+# Open-source code editor
 cask "visual-studio-code"
+# Rust-based terminal
 cask "warp"
 vscode "llvm-vs-code-extensions.lldb-dap"
 vscode "ms-python.debugpy"

@@ -1,3 +1,4 @@
+tap "homebrew/brew-vulns"
 # GitHub command-line tool
 brew "gh"
 # Mac App Store command-line interface

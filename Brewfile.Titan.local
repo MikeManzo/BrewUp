@@ -9,8 +9,6 @@ brew "mole"
 # Open-source, cross-platform JavaScript runtime environment
 brew "node"
 cask "font-meslo-lg-nerd-font"
-# Terminal emulator as alternative to Apple's Terminal app
-cask "iterm2"
 # Multi-platform web browser
 cask "microsoft-edge"
 # System monitor for the menu bar
